@@ -2,7 +2,8 @@
 Hi, I'm Danil - aka Ajems
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
-<h3 align="center">🧑‍🎓 Student of SPSETU "LETI" and Mobile Developer 📱</h3>
+<h3 align="center">📱 Android developer at Yandex Kinopoisk</h3>
+<h3 align="center">🧑‍🎓 Software engineering student at ETU LETI</h3>
  
 <table>
   <tr>
